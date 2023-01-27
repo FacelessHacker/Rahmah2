@@ -44,3 +44,7 @@
 - Your Notepad will be under the active Task to run every 3 hours.
 
  ### Pictorial Representation of the Above Steps
+ 
+ ![UI Image](https://github.com/FacelessHacker/Rahmah2/blob/main/Screenshot%20(24).png)
+ 
+ 
